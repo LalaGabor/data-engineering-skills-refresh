@@ -1,0 +1,1 @@
+Generators can be used for incremental processing as opposed to batch processing. Also "chained" processing
