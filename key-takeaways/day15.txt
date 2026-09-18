@@ -1,0 +1,5 @@
+Reminder to create a new dictionary based on old but wiht updated values use:
+
+dict_new = {dict_old**, "key":"new_value"}
+
+Reminder: Raising an error ends that function and raises error to higher function andor terminal^
